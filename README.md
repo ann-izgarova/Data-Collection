@@ -1,1 +1,1 @@
-# Data-Collection-Examples
+# Сбор данных о музеях с Яндекс.Карт по API
